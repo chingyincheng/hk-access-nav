@@ -1,3 +1,17 @@
+## Team and credits
+
+Team 1044 · **Penta Tech Bros** — Inter-University GenAI Hackathon for SDGs 2026,
+Track 1: Green Transport & Smart Mobility. Finalists.
+
+| Member | Institution | Contribution |
+
+| Cheng Ching Yin | CUHK | Team representative; problem framing, user interviews, architecture, field testing, final pitch |
+| Johnny Ho | CUHK | Solution architect |
+| [name] | [institution] | [contribution] |
+| [name] | [institution] | [contribution] |
+| [name] | [institution] | [contribution] |
+
+Implementation and bug fixes: [teammate's name] ([@1155194577](https://github.com/1155194577)).
 # HK Access Nav — mobile
 
 An Expo app that helps blind and visually impaired people navigate Hong Kong.
